@@ -5,3 +5,5 @@ target/*
 .classpath
 .metadata/
 .idea/
+plugin/
+*.iml
